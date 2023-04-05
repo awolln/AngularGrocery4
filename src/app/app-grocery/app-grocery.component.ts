@@ -2,9 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-grocery',
-  templateUrl: './app-grocery.components.html',
+  templateUrl: './app-grocery.component.html',
   styleUrls: [
-    '../../assets/css/bootstrap/bootstrap.min.css'
+    '../../assets/css/bootstrap.mini.css'
   ]
 })
 export class AppGroceryComponent {
